@@ -15,6 +15,7 @@ ul, ol {
   margin-top: 0;
   margin-left: 0;
   margin-bottom: 0;
+  padding-left: 0;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -23,8 +24,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .container {
-  width: 100%;
-  max-width: 1158;
+  max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
@@ -61,7 +61,6 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
-    padding-left: 156px;
 }
 
 .logo-item {
@@ -91,7 +90,6 @@ img {
 .adress {
   font-style: normal;
   margin-left: auto;
-  padding-right: 156px;
 }
 
 .adress-list {
