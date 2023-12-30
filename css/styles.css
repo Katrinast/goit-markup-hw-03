@@ -3,6 +3,7 @@ body {
     sans-serif;
   background-color: #FFF;
   color: #434455;
+  font-size: 16px;
 }
 
 a {
@@ -72,8 +73,7 @@ img {
 }
 
 .nav-link {
-    color: #2e2f42;
-    font-size: 16px;
+    color: #2e2f42;    
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -97,8 +97,7 @@ img {
 }
 
 .adress-link {
-    color:#434455;
-    font-size: 16px;
+    color:#434455;    
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
@@ -134,8 +133,7 @@ padding-bottom: 188px;
 .section-hero-button {
       background-color: #4D5AE5;
       color: #FFF;
-      font-family: inherit;
-      font-size: 16px;
+      font-family: inherit;      
       font-weight: 500;
       line-height: 1.5;
       letter-spacing: 0.04em;
@@ -199,8 +197,7 @@ padding: 120px 0;
 }
 
 .advantages-text {
-  color: #434455;
-  font-size: 16px;
+  color: #434455;  
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -263,8 +260,7 @@ padding: 120px 0;
 
 .team-text {
     color:#434455;
-    text-align: center;
-    font-size: 16px;
+    text-align: center;    
     line-height:1.5;
     letter-spacing: 0.02em;
     text-align: center;
@@ -324,8 +320,7 @@ border-top: none;
 }
 
 .portfolio-text {
-    color:#434455;
-    font-size: 16px;
+    color:#434455;   
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -361,8 +356,7 @@ border-top: none;
 }
 
 .footer-text {
-  color: #F4F4FD;
-  font-size: 16px;
+  color: #F4F4FD;  
   line-height: 1.5;
   letter-spacing: 0.02em;
   width: 264px;
